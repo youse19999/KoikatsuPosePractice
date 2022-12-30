@@ -1,0 +1,8 @@
+C:\Users\youse\source\repos\KoikatsuGameEngine\KoikatsuGameEngine\bin\Debug\KoikatsuGameEngine.dll
+C:\Users\youse\source\repos\KoikatsuGameEngine\KoikatsuGameEngine\bin\Debug\KoikatsuGameEngine.pdb
+C:\Users\youse\source\repos\KoikatsuGameEngine\KoikatsuGameEngine\obj\Debug\KoikatsuGameEngine.csproj.CoreCompileInputs.cache
+C:\Users\youse\source\repos\KoikatsuGameEngine\KoikatsuGameEngine\obj\Debug\KoikatsuGameEngine.dll
+C:\Users\youse\source\repos\KoikatsuGameEngine\KoikatsuGameEngine\obj\Debug\KoikatsuGameEngine.pdb
+F:\koikatsu\koikatsu\BepInEx\plugins\KoikatsuGameEngine.dll
+F:\koikatsu\koikatsu\BepInEx\plugins\KoikatsuGameEngine.pdb
+C:\Users\youse\source\repos\KoikatsuGameEngine\KoikatsuGameEngine\obj\Debug\KoikatsuGameEngine.csproj.AssemblyReference.cache
